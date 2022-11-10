@@ -1,4 +1,4 @@
-name: anyNameForThis
+name: myenv
 channels:
   - conda-forge
   - defaults
